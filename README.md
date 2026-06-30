@@ -1,4 +1,5 @@
 # Анализ продаж видеоигр (Video Game Sales)
+https://www.kaggle.com/datasets/gregorut/videogamesales (Источник данных)
 
 # Описание
 Анализ датасета с продажами видеоигр (16 500+ записей) с целью определить, 
